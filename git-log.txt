@@ -1,0 +1,27 @@
+NANDISH JHA NAJ474 11282001
+
+
+
+commit ae0f40c5cad91fd34814ab3b90f8a461b555ffae
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Nov 20 17:52:01 2025 -0600
+
+    Output file.
+
+commit 5142e65e6d33b6c98ae765f2510a8db57d87cb6d
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Nov 20 10:55:01 2025 -0600
+
+    Implemented the function that runs the algorithm that finds the victim for replacement.
+
+commit 199719336afc3a220c215fda8ffab4ecf3ae455d
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Nov 20 10:06:55 2025 -0600
+
+    Added Makefile and checked that it builds without errors or warnings.
+
+commit 98e89b17657d1f3d62df4ddf9e85f9ff5c297288
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Nov 19 11:45:29 2025 -0600
+
+    Initial commit.
