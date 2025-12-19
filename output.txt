@@ -1,0 +1,24 @@
+NANDISH JHA NAJ474 11282001
+
+
+
+R  on page 9. This triggered a page fault. There was a free slot!
+RW on page 8. This triggered a page fault. There was a free slot!
+RW on page 9.
+R  on page 5. This triggered a page fault. There was a free slot!
+RW on page 5.
+RW on page 6. This triggered a page fault. The chosen victim was page 9.
+RW on page 6.
+R  on page 9. This triggered a page fault. The chosen victim was page 8.
+R  on page 7. This triggered a page fault. The chosen victim was page 5.
+R  on page 3. This triggered a page fault. The chosen victim was page 6.
+R  on page 1. This triggered a page fault. The chosen victim was page 9.
+RW on page 3.
+R  on page 3.
+RW on page 3.
+RW on page 9. This triggered a page fault. The chosen victim was page 7.
+R  on page 7. This triggered a page fault. The chosen victim was page 3.
+R  on page 7.
+RW on page 7.
+R  on page 7.
+R  on page 5. This triggered a page fault. The chosen victim was page 1.
